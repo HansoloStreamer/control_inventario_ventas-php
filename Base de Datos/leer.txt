@@ -1,0 +1,8 @@
+El usuario que se debe crear primero(por recomendacion) debe ser:
+Nombre:****
+Apellido:****
+user: admin
+password: admin(puede ser cualquiera)
+
+Por recomendacion se cree primero el admin en el login del sistema porque será quien tenga los privilegios
+mayor a los demás.
